@@ -1,4 +1,4 @@
-# awesome-server-config
+# awesome-config
 a common useful web server config
 
 ## 1. nginx
