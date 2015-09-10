@@ -11,4 +11,4 @@ a common useful web server config
 ## 2. tomcat
 
 - java_opts.conf：jvm参数配置
-- connector.conf：tomcat connector参数配hi
+- connector.conf：tomcat connector参数配置
