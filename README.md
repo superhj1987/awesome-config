@@ -1,6 +1,5 @@
 # awesome-config
-a common useful web server config
-
+a common useful server config.
 ## 1. nginx
 
 - nginx.conf:总的配置文件
@@ -11,5 +10,12 @@ a common useful web server config
 ## 2. tomcat
 
 - java_opts.conf：jvm参数配置
-- catalina_opts.conf: catalina相关参数配置
 - connector.conf：tomcat connector参数配置
+
+## 3. mysql
+
+ToDo
+
+## 4. redis
+
+ToDo
