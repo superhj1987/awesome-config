@@ -11,4 +11,5 @@ a common useful web server config
 ## 2. tomcat
 
 - java_opts.conf：jvm参数配置
+- catalina_opts.conf: catalina相关参数配置
 - connector.conf：tomcat connector参数配置
