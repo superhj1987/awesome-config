@@ -18,4 +18,4 @@ a common useful server config.
 
 ## 4. redis
 
-ToDo
+- redis.conf: redis相关配置
