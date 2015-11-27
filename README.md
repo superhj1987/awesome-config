@@ -14,7 +14,7 @@ a common useful server config.
 
 ## 3. mysql
 
-ToDo
+- my.cnf: mysql相关配置
 
 ## 4. redis
 
