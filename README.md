@@ -1,7 +1,7 @@
 # awesome-config
 
 “awesome-config is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
-<a href="https://tracking.gitads.io/?repo=awesome-config"> <img src="https://images.gitads.io/awesome-config" alt="GitAds"/> </a>
+<a href="https://tracking.gitads.io/?repo=awesome-config"><img src="https://images.gitads.io/awesome-config" alt="GitAds"/></a>
 
 a common useful server config.
 
